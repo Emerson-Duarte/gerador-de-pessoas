@@ -151,7 +151,7 @@ class App extends React.Component {
           <input type="text" value={surname} />
           </div>
           <div className="labels">
-          <strong>Profissão</strong>
+          <strong>Cargo</strong>
           <input type="text" value={profession} />
           </div>
           <div className="labels">
@@ -173,4 +173,3 @@ class App extends React.Component {
 }
 
 export default App;
-
